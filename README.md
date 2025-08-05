@@ -87,7 +87,8 @@ Apasionado por el desarrollo web, la gestión de bases de datos y la optimizaci�
 Puedes encontrarme o escribirme por cualquiera de estos medios:
 
 - 📧 **Email:** criscagarapa@gmail.com
--  **LinkedIn:** [Cristian Garcia](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+-  **LinkedIn:** [Cristian Garcia](www.linkedin.com/in/cristian-camilo-garcia-patiño-ab2b96378
+)
 - 🐙 **GitHub:** [Cristian Garcia](https://github.com/CristianGa27)  
 
 
