@@ -55,7 +55,7 @@ Apasionado por el desarrollo web, la gestión de bases de datos y la optimizaci�
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cristian-dev&theme=radical" alt="Racha de contribuciones" width="500"/>
 
 </div>
----
+
 
 ## 💡 Habilidades Blandas
 
