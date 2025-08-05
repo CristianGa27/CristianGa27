@@ -53,9 +53,6 @@ Apasionado por el desarrollo web, la gestión de bases de datos y la optimizaci�
 <!-- Lenguajes más usados -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristian-dev&layout=compact&theme=radical" alt="Lenguajes más usados" width="400"/>
 
-<!-- Streak (racha de contribuciones) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cristian-dev&theme=radical" alt="Racha de contribuciones" width="500"/>
-
 </div>
 
 ---
