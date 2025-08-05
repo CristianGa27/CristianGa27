@@ -42,7 +42,20 @@ Apasionado por el desarrollo web, la gestión de bases de datos y la optimizaci�
 
 </div>
 
+---
+<div align="center">
 
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=cristian-dev&show_icons=true&theme=radical" alt="Estadísticas de Cristian" width="500"/>
+
+<!-- Lenguajes más usados -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristian-dev&layout=compact&theme=radical" alt="Lenguajes más usados" width="400"/>
+
+<!-- Streak (racha de contribuciones) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cristian-dev&theme=radical" alt="Racha de contribuciones" width="500"/>
+
+</div>
+---
 
 ## 💡 Habilidades Blandas
 
@@ -71,6 +84,7 @@ Apasionado por el desarrollo web, la gestión de bases de datos y la optimizaci�
 Puedes encontrarme o escribirme por cualquiera de estos medios:
 
 - 📧 **Email:** criscagarapa@gmail.com
+-  **LinkedIn:** [linkedin.com/in/cristian-dev](https://linkedin.com/in/cristian-dev)
 - 🐙 **GitHub:** [Cristian Garcia](https://github.com/CristianGa27)  
 
 
