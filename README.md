@@ -43,7 +43,7 @@ Apasionado por el desarrollo web, la gestión de bases de datos y la optimizaci�
 </div>
 
 ---
-📊 Estadísticas de GitHub
+##📊 Estadísticas de GitHub
 
 <div align="center">
 
